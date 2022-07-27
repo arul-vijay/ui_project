@@ -1,0 +1,36 @@
+@media all and (max-width:480px) {
+    .mobile
+    {
+        width:100%;
+        display: block;
+     
+    }
+}
+
+.carousel-caption 
+{
+    bottom: 220px;
+}
+.carousel-caption h5
+{
+    font-size: 60px;
+
+}
+
+@media all and (max-width:425px)
+{
+   .card{
+       margin-left: 56px;
+   }
+    }
+    @media all and (max-width:375px)
+{.card{
+    margin-left: 33px;
+}
+    }
+
+
+    @media all and (max-width: 375px){
+.card {
+    margin-left: 1px;
+}}
